@@ -1,0 +1,14 @@
+.nav-link a {
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+}
+.dropdown a {
+    background-color: black; 
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

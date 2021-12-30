@@ -1,0 +1,16 @@
+.footer-background {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url("https://images.immediate.co.uk/production/volatile/sites/30/2017/07/GettyImages-1204189958-fb4b98b.jpg?quality=90&resize=768%2C574");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.footer {
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+.footer-text {
+    text-align: center;
+    padding: 25px;
+}
